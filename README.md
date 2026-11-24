@@ -1,5 +1,5 @@
 ## Francesco Brembilla 
---- 
+
 
 I'm a third-year Artificial Intelligence student at the University of Pavia, interested in machine learning and practical applications of AI. I'm currently looking for an internship where I can keep learning and contribute to real projects.
 
