@@ -10,7 +10,7 @@ I'm a third-year Artificial Intelligence student at the University of Pavia, int
 
 ## What I've worked with
 
-Python · Machine Learning · Natural Language Processing · TensorFlow/Keras · Deep Learning · BiLSTM · MLP
+C++ · Ladder · Python  · Machine Learning · Natural Language Processing · Database and Knowledge Basis · TensorFlow/Keras · Deep Learning 
 
 ## Portfolio
 
